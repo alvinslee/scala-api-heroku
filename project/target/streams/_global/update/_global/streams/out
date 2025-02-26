@@ -1,0 +1,7 @@
+[0m[[0m[0mdebug[0m] [0m[0mnot up to date. inChanged = true, force = false[0m
+[0m[[0m[0mdebug[0m] [0m[0mUpdating ProjectRef(uri("file:/home/alvin/repositories/devspotlight/heroku/scala/play-samples/play-scala-rest-api-example/project/"), "play-scala-rest-api-example-build")...[0m
+[0m[[0m[0minfo[0m] [0m[0mUpdating play-scala-rest-api-example-build[0m
+[0m[[0m[0minfo[0m] [0m[0mResolved play-scala-rest-api-example-build dependencies[0m
+[0m[[0m[0minfo[0m] [0m[0mFetching artifacts of play-scala-rest-api-example-build[0m
+[0m[[0m[0minfo[0m] [0m[0mFetched artifacts of play-scala-rest-api-example-build[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone updating ProjectRef(uri("file:/home/alvin/repositories/devspotlight/heroku/scala/play-samples/play-scala-rest-api-example/project/"), "play-scala-rest-api-example-build")[0m

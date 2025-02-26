@@ -1,0 +1,18 @@
+2025-02-26 14:28:29,724 [INFO] from play.api.http.EnabledFilters in play-dev-mode-pekko.actor.default-dispatcher-7 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+
+2025-02-26 14:28:29,727 [INFO] from play.api.Play in play-dev-mode-pekko.actor.default-dispatcher-7 - Application started (Dev) (no global state)
+2025-02-26 14:28:29,794 [TRACE] from v1.post.PostActionBuilder in application-pekko.actor.default-dispatcher-7 - invokeBlock: 
+2025-02-26 14:28:29,795 [TRACE] from v1.post.PostController in application-pekko.actor.default-dispatcher-7 - index: 
+2025-02-26 14:28:29,796 [TRACE] from v1.post.PostRepositoryImpl in application-repository.dispatcher-8 - list: 
+2025-02-26 14:28:41,104 [TRACE] from v1.post.PostActionBuilder in application-pekko.actor.default-dispatcher-5 - invokeBlock: 
+2025-02-26 14:28:41,105 [TRACE] from v1.post.PostController in application-pekko.actor.default-dispatcher-5 - show: id = 1
+2025-02-26 14:28:41,106 [TRACE] from v1.post.PostRepositoryImpl in application-repository.dispatcher-9 - get: id = 1
+2025-02-26 14:28:55,216 [INFO] from play.api.internal.libs.concurrent.CoordinatedShutdownSupport in pool-33-thread-7 - Starting synchronous coordinated shutdown with ServerStoppedReason reason and 40000 milliseconds timeout
+2025-02-26 14:28:55,218 [INFO] from play.core.server.PekkoHttpServer in pool-33-thread-7 - Stopping Pekko HTTP server...
+2025-02-26 14:28:55,222 [INFO] from play.core.server.PekkoHttpServer in play-dev-mode-pekko.actor.internal-dispatcher-5 - Unbinding /[0:0:0:0:0:0:0:0]:9000
+2025-02-26 14:28:55,224 [INFO] from play.core.server.PekkoHttpServer in play-dev-mode-pekko.actor.internal-dispatcher-3 - Terminating server binding for /[0:0:0:0:0:0:0:0]:9000
+2025-02-26 14:28:55,239 [INFO] from play.core.server.PekkoHttpServer in play-dev-mode-pekko.actor.internal-dispatcher-14 - Running provided shutdown stop hooks
